@@ -1,5 +1,5 @@
 # JokeApp
-A mobile application for Android OS that calls a web service, using AsyncTask, and displays a joke.
+A mobile application for Android OS that calls a web service, using AsyncTask, and displays a joke. The web service is called when the button in the activity is pressed.
 
 # What I learned
 * Call a webservice
